@@ -118,4 +118,6 @@ Darknet markets offer a space for anonymous transactions. By following these sec
 
 Please contribute and add stars to this repo.
 
-Update:  08/13/2025 I'm happy to report that the link is now accessible.
+
+
+Update:  19.08.2025 Fixed broken url, now working
