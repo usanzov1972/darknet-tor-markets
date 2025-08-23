@@ -120,4 +120,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  19.08.2025 Fixed broken url, now working
+
+
+Update:  23 August
